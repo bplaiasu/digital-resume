@@ -100,9 +100,9 @@ li{
     font-size: 0.9em;
 }
 
-#qualifications--list{
+/* #qualifications--list{
     list-style: none;
-}
+} */
 
 #wrapper--techstack__items{
     display: flex;
