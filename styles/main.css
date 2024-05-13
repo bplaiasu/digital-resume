@@ -60,6 +60,10 @@ li{
     gap: 4em;
 }
 
+#bio {
+    font-style: italic;
+}
+
 #bio, a{
     font-weight: 300;
 }
@@ -98,6 +102,7 @@ li{
     font-weight: 100;
     color: var(--mainLinkColor);
     font-size: 0.9em;
+    text-decoration: underline;
 }
 
 /* #qualifications--list{
