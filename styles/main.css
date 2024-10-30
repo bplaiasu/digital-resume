@@ -92,15 +92,15 @@ li{
 }
 
 #socials--list a{
-    font-weight: 300;
-    color: var(--secondaryTextColor);
+    /* font-weight: 200; */
+    /* color: var(--secondaryTextColor); */
     font-size: 0.9em;
     transition: 0.3s;
 }
 
 #socials--list a:hover{
-    font-weight: 100;
-    color: var(--mainLinkColor);
+    font-weight: 500;
+    /* color: var(--mainLinkColor); */
     font-size: 0.9em;
     text-decoration: underline;
 }
